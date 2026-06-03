@@ -1,0 +1,1 @@
+CREATE DATABASE gomode_saas;
